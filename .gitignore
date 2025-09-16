@@ -1,0 +1,25 @@
+# Node
+node_modules/
+.next/
+out/
+dist/
+.cache/
+*.log
+npm-debug.log*
+yarn-error.log*
+
+# Env & local
+.env
+.env.local
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Misc
+*.icloud
